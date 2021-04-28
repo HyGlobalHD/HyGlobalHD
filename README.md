@@ -1,16 +1,15 @@
-### Hi there 👋
 
+![HyGlobalHD's Stats](https://github-readme-stats.vercel.app/api?username=hyglobalhd&count_private=true&show_icons=true&theme=vue-dark&hide_title=true)
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyglobalhd&layout=compact&theme=vue-dark) -->
 <!--
 **HyGlobalHD/HyGlobalHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Still doesn't know what to add, maybe in the future
 -->
+
+## About me
+Hi! I am a Malaysia student taking diploma in computer science at UiTM.
+Currently I have learnt C++, Java, Visual Basic, Javascript, PHP, Assembly, Scheme.
+Right now I don't have any language that I am focused to, as I am still looking for a language that I might like.
+
+
