@@ -1,6 +1,6 @@
 
 ![HyGlobalHD's Stats](https://github-readme-stats.vercel.app/api?username=hyglobalhd&count_private=true&show_icons=true&theme=vue-dark&hide_title=true)
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyglobalhd&layout=compact&theme=vue-dark) -->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyglobalhd&layout=compact&theme=vue-dark)
 <!--
 **HyGlobalHD/HyGlobalHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
