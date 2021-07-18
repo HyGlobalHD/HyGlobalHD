@@ -1,5 +1,6 @@
 
 ![HyGlobalHD's Stats](https://github-readme-stats.vercel.app/api?username=HyGlobalHD&count_private=true&show_icons=true&theme=vue-dark&hide_title=true)
+
 <!--
 **HyGlobalHD/HyGlobalHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,3 +14,5 @@ I am learning programming paradigms.
 Right now I don't have any language that I am focused to, as I am still looking for a language that I might like.
 
 
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=HyGlobalHD)](https://github.com/LordDashMe/github-contribution-stats/)
