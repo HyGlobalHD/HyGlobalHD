@@ -9,12 +9,6 @@ When I'm not studying, I enjoy working on side projects and exploring new techno
 
 Don't hesitate to reach out to me on any of my social media channels if you have any questions or just want to say hello.
 
-## Skills and Tools
-```
-- C++ - Java - Visual Basic - PHP - SQL - JavaScript - Python - Prolog - Android
-- Oracle Database - XAMPP mySQL
-```
-
 ## Social
 [<img src="https://cdn.cdnlogo.com/logos/i/32/instagram-icon.svg" width="15" height="15" /> Instagram](https://instagram.com/hyglobalhd)<br>
 [<img src="https://cdn.cdnlogo.com/logos/y/57/youtube-icon.svg" width="15" height="15" /> YouTube](https://www.youtube.com/channel/UCVjmn2wcZHC606EmVu5HukQ)<br>
