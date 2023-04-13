@@ -1,31 +1,27 @@
 <img src="https://www.pixelstalk.net/wp-content/uploads/2016/10/Art-landscape-mountains-wallpaper-landscapes-walls.jpg" width="100%" height="300" />
 
 ## About me <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="20" />
-```
-Hi! I am a Malaysia fresh graduate for diploma in computer science course (CS110) at UiTM.
-Currently I have learnt C++, Java, Visual Basic, PHP, SQL, JS, Python, Prolog, and Android.
-Right now I don't have any language that I am focused to, as I am still looking for a language that I might like.
-```
-``
-Currently trying to explore more, and learn new stuff and do a side project once in a while.
-Looking for notes and books on programming, so that I could learn more stuff.
-``
 
-Social:  
+Hi there! <br>
+I'm a Bachelor of Computer Science (Hons.) student at UiTM, Malaysia. I have experience working with a variety of programming languages, including C++, Java, Visual Basic, PHP, SQL, JavaScript, Python, Prolog, and Android. While I have no specific language that I'm focused on at the moment, I'm always looking to expand my knowledge and skills.
+
+When I'm not studying, I enjoy working on side projects and exploring new technologies. I'm constantly searching for new resources, including notes and books, to help me learn more about programming.
+
+Don't hesitate to reach out to me on any of my social media channels if you have any questions or just want to say hello.
+
+## Skills and Tools
+```
+- C++ - Java - Visual Basic - PHP - SQL - JavaScript - Python - Prolog - Android
+- Oracle Database - XAMPP mySQL
+```
+
+## Social
 [<img src="https://cdn.cdnlogo.com/logos/i/32/instagram-icon.svg" width="15" height="15" /> Instagram](https://instagram.com/hyglobalhd)<br>
 [<img src="https://cdn.cdnlogo.com/logos/y/57/youtube-icon.svg" width="15" height="15" /> YouTube](https://www.youtube.com/channel/UCVjmn2wcZHC606EmVu5HukQ)<br>
 [<img src="https://cdn.cdnlogo.com/logos/t/46/twitch-icon.svg" width="15" height="15" > Twitch](https://www.twitch.tv/april_13th)
 
-<!--
-## Stats
-![HyGlobalHD's Stats](https://github-readme-stats.vercel.app/api?username=HyGlobalHD&count_private=true&show_icons=true&theme=vue-dark&hide_title=true)
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=HyGlobalHD)](https://github.com/LordDashMe/github-contribution-stats/)
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=hyglobalhd)
--->
-
-## Referrals // Support
-<a href="https://p2pr.me/165875584762de9b0714e4f?campaign=github"><img src="https://peer2profit.co/img/promo/en/p2p-banner-468x60.png" width="468"  height="60" /></a>
-
-<a href="https://www.luno.com/invite/UPHMAB"><img src="https://d32exi8v9av3ux.cloudfront.net/wallet-app/2022/07/25/76fc72/wallet-app/assets/svg/luno-logo_v3.svg" width="468" height="60"/></a>
-
-BITCOIN ADDRESS: ``3KfV3FBe1jsXuZh8rEXmWL1kQN6JVo1iZt``
+## Referrals and Support
+<a href="https://www.luno.com/invite/UPHMAB"><img src="https://d32exi8v9av3ux.cloudfront.net/wallet-app/2022/07/25/76fc72/wallet-app/assets/svg/luno-logo_v3.svg" width="468" height="60"/></a><br>
+<br>
+XRP:<br>
+<img src="https://www.luno.com/share/qr_code_png?currency=XRP&address=X7b7D3J4DeAHHEzez2WC8spbUmB5wjQVS3Js7URXJugrxJy&amount="/> <br> XRP Address: ``X7b7D3J4DeAHHEzez2WC8spbUmB5wjQVS3Js7URXJugrxJy``
