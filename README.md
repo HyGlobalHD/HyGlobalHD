@@ -19,3 +19,4 @@ Don't hesitate to reach out to me on any of my social media channels if you have
 <br>
 XRP:<br>
 <img src="https://www.luno.com/share/qr_code_png?currency=XRP&address=X7b7D3J4DeAHHEzez2WC8spbUmB5wjQVS3Js7URXJugrxJy&amount="/> <br> XRP Address: ``X7b7D3J4DeAHHEzez2WC8spbUmB5wjQVS3Js7URXJugrxJy``
+<br> XRP Tag: ``3160262386``
