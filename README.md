@@ -2,8 +2,12 @@
 
 ## About me <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="20" />
 
-Hi there! <br>
-I'm a Bachelor of Computer Science (Hons.) student at UiTM, Malaysia. I have experience working with a variety of programming languages, including C++, Java, Visual Basic, PHP, SQL, JavaScript, Python, Prolog, and Android. While I have no specific language that I'm focused on at the moment, I'm always looking to expand my knowledge and skills.
+Hello! 👋 <br>
+I’m a recent Bachelor of Computer Science (Hons.) graduate from Universiti Teknologi MARA (UiTM), Malaysia, with a passion for turning ideas into functional solutions. My academic journey equipped me with hands-on experience across a versatile tech stack, including:
+
+- **Languages:** &emsp; &emsp;&nbsp; Python, Java, C++, JavaScript, PHP, Prolog  <br>
+- **Mobile & Web:** &emsp; Android development, SQL, Visual Basic  <br>
+- **Toolkit:** &emsp; &emsp; &emsp;&emsp; Problem-solving, full-stack experimentation, and continuous learning
 
 When I'm not studying, I enjoy working on side projects and exploring new technologies. I'm constantly searching for new resources, including notes and books, to help me learn more about programming.
 
