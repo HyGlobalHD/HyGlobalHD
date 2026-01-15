@@ -21,6 +21,3 @@ Don't hesitate to reach out to me on any of my social media channels if you have
 ## Referrals and Support
 <a href="https://www.luno.com/invite/UPHMAB"><img src="https://d32exi8v9av3ux.cloudfront.net/wallet-app/2022/07/25/76fc72/wallet-app/assets/svg/luno-logo_v3.svg" width="468" height="60"/></a><br>
 <br>
-XRP:<br>
-<img src="https://www.luno.com/share/qr_code_png?currency=XRP&address=X7b7D3J4DeAHHEzez2WC8spbUmB5wjQVS3Js7URXJugrxJy&amount="/> <br> XRP Address: ``X7b7D3J4DeAHHEzez2WC8spbUmB5wjQVS3Js7URXJugrxJy``
-<br> XRP Tag: ``3160262386``
